@@ -8,6 +8,7 @@
   
   $client->setLocation("us-east");
 
-  echo($client);
+  // echo($client);
+  echo("this is working");
 
 ?>
