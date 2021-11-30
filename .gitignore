@@ -1,5 +1,4 @@
 vendor/
-composer.lock
 /.env
 .phplint-cache
 .phpunit.result.cache
